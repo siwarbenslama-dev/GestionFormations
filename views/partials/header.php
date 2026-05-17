@@ -7,7 +7,7 @@
 </head>
 <body>
 <nav>
-  <a href="index.php">🏠 Accueil</a>
-  <a href="index.php?page=formations">📚 Formations</a>
-  <a href="index.php?page=inscription">✏️ S'inscrire</a>
+  <a href="index.php"> Accueil</a>
+  <a href="index.php?page=formations">Formations</a>
+  <a href="index.php?page=inscription"> S'inscrire</a>
 </nav>
